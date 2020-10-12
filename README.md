@@ -133,12 +133,13 @@ Sunday       114 commits    █████░░░░░░░░░░░░�
 ___
 
 ## 📫 How to reach me:
-[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com)
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com)
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com)
-<a href="mailto:Jason05_ab@hotmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+
+[<img src = "https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com)
+[<img src = "https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com)
+[<img src = "https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com)
+[<img src = "https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com)
+[<img src = "https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com)
+<a href = "mailto:Jason05_ab@hotmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 <p align = "center">
   <a href = "https://jeison-alarcon.netlify.app"><img src = "https://img.icons8.com/color/96/000000/internet.png" height = "16"/>Personal Website</a> •
