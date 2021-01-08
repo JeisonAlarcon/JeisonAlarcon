@@ -22,7 +22,7 @@ My projects:
 - 🤓 Learning Python.
 - 📫 Born in Bogotá, Colombia <img src="https://image.flaticon.com/icons/svg/197/197575.svg" width="13"/>
 - 🔗 My website: [jeison-alarcon.netlify.app](https://jeison-alarcon.netlify.app)
-- 💬 Ask me about anything, I am happy to help.
+- 💬 Ask me about anything, I'm happy to help.
 - :bulb: Occasionally I do participate in **Hackathons**.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
@@ -54,8 +54,8 @@ ___
   
   <br>
   
-  <img src = "https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt = "C" width = "40" height = "40"/>
-  <img src = "https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt = "C++" width = "40" height = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt = "C" width = "40" height = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt = "C++" width = "40" height = "40"/>
   
   <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt = "git" width = "45" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt = "github" width = "45" height = "40"/>
@@ -66,7 +66,7 @@ ___
   <img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width = "45" height = "40"/>
   
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="ipynb" width = "45" height = "40"/>
-  <img src = "https://devicons.github.io/devicon/devicon.git/icons/pycharm/pycharm-original.svg" alt="pycharm" width = "45" height = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width = "45" height = "40"/>
 </p>
 
 ___
@@ -103,9 +103,9 @@ ___
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 1 Public Repositories
+> 📜 2 Public Repositories
  > 
-> 🔑 2 Private Repository
+> 🔑 4 Private Repository
  > 
 
 ### **I'm a Night 🦉**
