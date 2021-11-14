@@ -20,7 +20,7 @@ My projects:
 - 🔭 I’m currently working as an auxiliary student for [DNPE](http://planeacion.bogota.unal.edu.co).
 - 🌱 I’m currently learning Machine Learning and Big Data.
 - 🤓 Learning Python.
-- 📫 Born in Bogotá, Colombia <img src="https://image.flaticon.com/icons/svg/197/197575.svg" width="13"/>
+- 📫 Born in Bogotá, Colombia <img src="https://cdn-icons-png.flaticon.com/512/323/323343.png" width="13"/>
 - 🔗 My website: [jeison-alarcon.netlify.app](https://jeison-alarcon.netlify.app)
 - 💬 Ask me about anything, I'm happy to help.
 - :bulb: Occasionally I do participate in **Hackathons**.
